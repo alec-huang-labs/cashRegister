@@ -1,4 +1,4 @@
-//my Solution (7.75 hrs later!)
+
 function checkCashRegister(price, cash, cid) {
     
     let originalDrawer = cid.map(arr => [...arr]);
